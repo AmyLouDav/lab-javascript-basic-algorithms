@@ -15,16 +15,16 @@ const todaysdate = "'18/10/2021😁"
 
 const iamyearsold = 48
 
-const millionsinthebank = null
+const millionsInTheBank = null
 
 const doIlikeGermany = undefined
 
 const amIItalian = true
 const doIlikePiña = false
 
-const expressionhere = (2+5) * 6
+const expressionHere = (2+5) * 6
 
 // string templates
-const powerfulstrings = `I am ${iamyearsold} years old`
+const powerfulStrings = `I am ${iamyearsold} years old`
 
-console.log(powerfulstrings)
+console.log(powerfulStrings)

@@ -22,7 +22,7 @@ console.log(
 
 console.log(
     "shortcut logic examples \n",
-    ("" || 0)
+    ("" || 0),
     "new logic",
     (null || "")
     )
